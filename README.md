@@ -48,7 +48,7 @@ I'm an indie full-stack developer building my version of the digital world one s
   <br>
 <!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
      -->
-  ![snake gif](https://github.com/drekhai123/drekhai123/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/drekhai123/drekhai123/output/github-snake-dark.svg)
 
   <br/><br/><br/>
 </div>
